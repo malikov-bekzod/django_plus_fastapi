@@ -1,0 +1,9 @@
+SECRET_KEY='django-insecure-m6dag%-!rhhh27e^f7--xyt0g2a4j@n_5f(=uz4rdz&wclq*qq'
+WSGI_APPLICATION=config.wsgi.application
+
+DB_ENGINE=django.db.backends.postgresql
+DB_NAME=something
+DB_USER=postgres
+DB_PASSWORD=password
+DB_HOST=127.0.0.1
+DB_PORT=5432
